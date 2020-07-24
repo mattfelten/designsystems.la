@@ -25,7 +25,6 @@ img {
 	display: flex;
 	align-items: center;
 	min-height: 100vh;
-	min-height: -webkit-fill-available;
 	position: relative;
 	overflow: hidden;
 	text-align: center;
